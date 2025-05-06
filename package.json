@@ -1,0 +1,19 @@
+{
+  "name": "disqet",
+  "version": "1.0.7",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "discord.js": "^14.19.3",
+    "disqet": "^1.0.0"
+  }
+}
