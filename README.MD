@@ -123,8 +123,4 @@ export default NewEvent({
 
 ---
 
-## **Contributions**
-
-Feel free to contribute with improvements, suggestions, and new features! Fork the repository, create a branch, and send a pull request.
-
----
+## **By ddnrz 🔨**
