@@ -123,4 +123,4 @@ export default NewEvent({
 
 ---
 
-## **By ddnrz 🔨**
+## **By ddrnz 🔨**
